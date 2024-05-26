@@ -1,0 +1,18 @@
+{
+    "name": "MonitoringSuite.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:479b80f7828a3ec4d9257bd9b26d5b4f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

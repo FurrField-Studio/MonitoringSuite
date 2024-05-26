@@ -1,0 +1,11 @@
+{
+  "name": "com.furrfield-studio.monitoring-suite",
+  "version": "1.0.0",
+  "displayName": "Monitoring Suite",
+  "author": {
+    "name": "FurrField Studio",
+    "email": "contact@furrfield.com",
+    "url": "https://furrfield.com"
+  },
+  "documentationUrl": ""
+}
